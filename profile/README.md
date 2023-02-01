@@ -1,4 +1,4 @@
-# BiocPy: Porting Bioconductor's Representations to Python
+# BiocPy: enabling Bioconductor workflows in Python
 
 **BiocPy is an effort to bring core data structures and representations from [Bioconductor](https://www.bioconductor.org) to Python.**
 
