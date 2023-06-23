@@ -26,25 +26,3 @@ pip install biocpy
 ```
 
 Packages can also be installed individually. Checkout package docs for installation instructions.
-
-
-### Immediate goals
-
-***This is not an exhaustive list. more to come...***
-
-- [ ] Visualization interfaces preferably to existing packages, [epiviz](https://github.com/epiviz/epiviz-chart)? [pygenomeViz](https://moshi4.github.io/pyGenomeViz/)? [gosling](https://github.com/gosling-lang/gos)? [pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks)?
-  - [ ] also something like [complexHeatMap](https://jokergoo.github.io/ComplexHeatmap-reference/book/) would be nice
-- [ ] language-agnostic serialization, hdf5 based formats or protobufs?
-- [ ] Import from common genomic file formats, something like [rtracklayer](https://www.bioconductor.org/packages/release/bioc/html/rtracklayer.html)
-  - [ ] can repurpose [epivizFileParser](https://github.com/epiviz/epivizFileParser)
-- [ ] Interfaces to frequently used analysis methods
-- [ ] Outreach and community feedback, involvement and support.
-
-
-### Future
-
-- [ ] File backed mode for formats that support in-situ querying
-- [ ] Delayed operations
-- [ ] Optimizations and in general enhancements
-- [ ] Interfaces to commonly used analysis methods
-
