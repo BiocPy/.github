@@ -25,4 +25,7 @@ All packages in the `BiocPy` ecosystem are published to [PyPI](https://pypi.org/
 pip install biocpy
 ```
 
-Packages can also be installed individually. Checkout docs for installation instructions.
+Packages can also be installed individually. Checkout docs for installation instructions. 
+
+
+If you want to contribute to biocpy, checkout the [developer guide](https://github.com/BiocPy/developer_guide).
