@@ -10,7 +10,9 @@ For example, container classes like
 [SummarizedExperiment](https://github.com/BiocPy/SummarizedExperiment), [SingleCellExperiment](https://github.com/BiocPy/SingleCellExperiment), 
 and [MultiAssayExperiment](https://github.com/BiocPy/MultiAssayExperiment) represent single or multi-omic experimental data and metadata.
 
-### 🔥 Explore the BiocPy book - [https://biocpy.github.io/tutorial/](https://biocpy.github.io/tutorial/).
+> [!NOTE]
+> - **🔥 Checkout the workshop tutorials from Bioc2024 - [https://biocpy.github.io/BiocWorkshop2024/](https://biocpy.github.io/BiocWorkshop2024/).**
+> - **[WIP] Explore the BiocPy book - [https://biocpy.github.io/tutorial/](https://biocpy.github.io/tutorial/).**
 
 ## Selected packages
 
