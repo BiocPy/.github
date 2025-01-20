@@ -19,29 +19,32 @@ and [MultiAssayExperiment](https://github.com/BiocPy/MultiAssayExperiment) repre
 
 For a complete list of packages, visit our [GitHub organization](https://github.com/orgs/BiocPy/repositories).
 
+
 ### Data Structures
 
-| Package | Description | Links |
-|---------|-------------|-------|
-| BiocFrame | Bioconductor-like data frames | [GitHub](https://github.com/BiocPy/BiocFrame) \| [Docs](https://biocpy.github.io/BiocFrame/) |
-| IRanges | Interval arithmetic operations | [GitHub](https://github.com/BiocPy/IRanges) \| [Docs](https://biocpy.github.io/IRanges/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IRanges.html) |
-| GenomicRanges | Genomic location analysis | [GitHub](https://github.com/BiocPy/GenomicRanges) \| [Docs](https://biocpy.github.io/GenomicRanges/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html) |
+| Package | Description | PyPI | Links |
+|---------|-------------|------|-------|
+| BiocFrame | Bioconductor-like data frames | [![PyPI](https://img.shields.io/pypi/v/BiocFrame.svg)](https://pypi.org/project/BiocFrame/) | [GitHub](https://github.com/BiocPy/BiocFrame) \| [Docs](https://biocpy.github.io/BiocFrame/) |
+| IRanges | Interval arithmetic operations | [![PyPI](https://img.shields.io/pypi/v/iranges.svg)](https://pypi.org/project/iranges/) | [GitHub](https://github.com/BiocPy/IRanges) \| [Docs](https://biocpy.github.io/IRanges/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/IRanges.html) |
+| GenomicRanges | Genomic location analysis | [![PyPI](https://img.shields.io/pypi/v/genomicranges.svg)](https://pypi.org/project/genomicranges/) | [GitHub](https://github.com/BiocPy/GenomicRanges) \| [Docs](https://biocpy.github.io/GenomicRanges/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/GenomicRanges.html) |
 
 ### Containers
 
-| Package | Description | Links |
-|---------|-------------|-------|
-| SummarizedExperiment | Genomic experiments container | [GitHub](https://github.com/BiocPy/SummarizedExperiment) \| [Docs](https://biocpy.github.io/SummarizedExperiment/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html) |
-| SingleCellExperiment | Single-cell genomics container | [GitHub](https://github.com/BiocPy/SingleCellExperiment) \| [Docs](https://biocpy.github.io/SingleCellExperiment/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html) |
-| MultiAssayExperiment | Multi-omics data framework | [GitHub](https://github.com/BiocPy/MultiAssayExperiment) \| [Docs](https://biocpy.github.io/MultiAssayExperiment/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/MultiAssayExperiment.html) |
+| Package | Description | PyPI | Links |
+|---------|-------------|------|-------|
+| SummarizedExperiment | Genomic experiments container | [![PyPI](https://img.shields.io/pypi/v/summarizedexperiment.svg)](https://pypi.org/project/summarizedexperiment/) | [GitHub](https://github.com/BiocPy/SummarizedExperiment) \| [Docs](https://biocpy.github.io/SummarizedExperiment/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html) |
+| SingleCellExperiment | Single-cell genomics container | [![PyPI](https://img.shields.io/pypi/v/singlecellexperiment.svg)](https://pypi.org/project/singlecellexperiment/) | [GitHub](https://github.com/BiocPy/SingleCellExperiment) \| [Docs](https://biocpy.github.io/SingleCellExperiment/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html) |
+| MultiAssayExperiment | Multi-omics data framework | [![PyPI](https://img.shields.io/pypi/v/multiassayexperiment.svg)](https://pypi.org/project/multiassayexperiment/) | [GitHub](https://github.com/BiocPy/MultiAssayExperiment) \| [Docs](https://biocpy.github.io/MultiAssayExperiment/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/MultiAssayExperiment.html) |
 
 
 ### R Interoperability
 
-- **rds2py**: Read RDS files directly in Python ([GitHub](https://github.com/BiocPy/rds2py) \| [Docs](https://biocpy.github.io/rds2py/))
-- **BiocUtils**: Common utilities mirroring R's base functionality ([GitHub](https://github.com/BiocPy/biocutils) \| [Docs](https://biocpy.github.io/BiocUtils/))
-- **mopsy**: Matrix operations with R-like syntax ([GitHub](https://github.com/BiocPy/mopsy) \| [Docs](https://biocpy.github.io/mopsy/))
-- **pyBiocFileCache**: Resource caching system ([GitHub](https://github.com/BiocPy/pyBiocFileCache) \| [Docs](https://biocpy.github.io/pyBiocFileCache/))
+| Package | Description | PyPI | Links |
+|---------|-------------|------|-------|
+| rds2py | Read RDS files directly in Python | [![PyPI](https://img.shields.io/pypi/v/rds2py.svg)](https://pypi.org/project/rds2py/) | [GitHub](https://github.com/BiocPy/rds2py) \| [Docs](https://biocpy.github.io/rds2py/) |
+| BiocUtils | Common utilities mirroring R's base functionality | [![PyPI](https://img.shields.io/pypi/v/biocutils.svg)](https://pypi.org/project/biocutils/) | [GitHub](https://github.com/BiocPy/biocutils) \| [Docs](https://biocpy.github.io/BiocUtils/) |
+| mopsy | Matrix operations with R-like syntax | [![PyPI](https://img.shields.io/pypi/v/mopsy.svg)](https://pypi.org/project/mopsy/) | [GitHub](https://github.com/BiocPy/mopsy) \| [Docs](https://biocpy.github.io/mopsy/) |
+| pyBiocFileCache | Resource caching system | [![PyPI](https://img.shields.io/pypi/v/pybiocfilecache.svg)](https://pypi.org/project/pybiocfilecache/) | [GitHub](https://github.com/BiocPy/pyBiocFileCache) \| [Docs](https://biocpy.github.io/pyBiocFileCache/) |
 
 
 ## BiocPy Ecosystem
