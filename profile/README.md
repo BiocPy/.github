@@ -47,7 +47,7 @@ For a complete list of packages, visit our [GitHub organization](https://github.
 | pyBiocFileCache | Resource caching system | [![PyPI](https://img.shields.io/pypi/v/pybiocfilecache.svg)](https://pypi.org/project/pybiocfilecache/) | [GitHub](https://github.com/BiocPy/pyBiocFileCache) \| [Docs](https://biocpy.github.io/pyBiocFileCache/) |
 
 
-## BiocPy Ecosystem
+## Friends of BiocPy
 
 BiocPy integrates with several analysis tools and frameworks
 
