@@ -44,8 +44,15 @@ For a complete list of packages, visit our [GitHub organization](https://github.
 | rds2py | Read RDS files directly in Python | [![PyPI](https://img.shields.io/pypi/v/rds2py.svg)](https://pypi.org/project/rds2py/) | [GitHub](https://github.com/BiocPy/rds2py) \| [Docs](https://biocpy.github.io/rds2py/) |
 | BiocUtils | Common utilities mirroring R's base functionality | [![PyPI](https://img.shields.io/pypi/v/biocutils.svg)](https://pypi.org/project/biocutils/) | [GitHub](https://github.com/BiocPy/biocutils) \| [Docs](https://biocpy.github.io/BiocUtils/) |
 | mopsy | Matrix operations with R-like syntax | [![PyPI](https://img.shields.io/pypi/v/mopsy.svg)](https://pypi.org/project/mopsy/) | [GitHub](https://github.com/BiocPy/mopsy) \| [Docs](https://biocpy.github.io/mopsy/) |
-| pyBiocFileCache | Resource caching system | [![PyPI](https://img.shields.io/pypi/v/pybiocfilecache.svg)](https://pypi.org/project/pybiocfilecache/) | [GitHub](https://github.com/BiocPy/pyBiocFileCache) \| [Docs](https://biocpy.github.io/pyBiocFileCache/) |
+| pyBiocFileCache | Resource caching system | [![PyPI](https://img.shields.io/pypi/v/pybiocfilecache.svg)](https://pypi.org/project/pybiocfilecache/) | [GitHub](https://github.com/BiocPy/pyBiocFileCache) \| [Docs](https://biocpy.github.io/pyBiocFileCache/) \| [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/BiocFileCache.html) |
 
+#### Delayed Operations
+
+| Package | Description | PyPI | Links |
+|---------|-------------|------|-------|
+| DelayedArray | Delayed operations in Python | [![PyPI](https://img.shields.io/pypi/v/delayedarray.svg)](https://pypi.org/project/delayedarray/) | [GitHub](https://github.com/BiocPy/DelayedArray) \| [Docs](https://biocpy.github.io/DelayedArray/)  \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/DelayedArray.html) |
+| HDF5Array | HDF5-backed arrays | [![PyPI](https://img.shields.io/pypi/v/hdf5array.svg)](https://pypi.org/project/hdf5array/) | [GitHub](https://github.com/BiocPy/HDF5Array) \| [Docs](https://biocpy.github.io/HDF5Array/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/HDF5Array.html) |
+| TileDBArray | TileDB-backed arrays | [![PyPI](https://img.shields.io/pypi/v/mopsy.svg)](https://pypi.org/project/mopsy/) | [GitHub](https://github.com/BiocPy/TileDBArray) \| [Docs](https://biocpy.github.io/TileDBArray/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/TileDBArray.html) |
 
 ## Friends of BiocPy
 
@@ -63,7 +70,7 @@ BiocPy integrates with several analysis tools and frameworks
 
 ### Model Training
 
-- [TileOme](https://github.com/TileOme): TileDB-based genomic data storage with AI/ML dataloaders.
+- [CellArr](https://github.com/CellArr): TileDB-based genomic data storage with AI/ML dataloaders.
 
 ## Installation
 
