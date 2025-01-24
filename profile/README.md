@@ -82,6 +82,11 @@ pip install biocpy
 
 Individual packages can be installed separately. See each package's documentation for specific installation instructions.
 
+## Environments
+
+We provide conda/mamba configuration files to create environments containing most BiocPy (& friends) packages. 
+Check out the [environments repository](https://github.com/biocpy/environments) for more information.
+
 ----
 
 ## Contributing
