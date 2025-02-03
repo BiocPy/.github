@@ -55,6 +55,25 @@ For a complete list of packages, visit our [GitHub organization](https://github.
 | HDF5Array | HDF5-backed arrays | [![PyPI](https://img.shields.io/pypi/v/hdf5array.svg)](https://pypi.org/project/hdf5array/) | [GitHub](https://github.com/BiocPy/HDF5Array) \| [Docs](https://biocpy.github.io/HDF5Array/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/HDF5Array.html) |
 | TileDBArray | TileDB-backed arrays | [![PyPI](https://img.shields.io/pypi/v/mopsy.svg)](https://pypi.org/project/mopsy/) | [GitHub](https://github.com/BiocPy/TileDBArray) \| [Docs](https://biocpy.github.io/TileDBArray/) \| [Bioconductor](https://bioconductor.org/packages/release/bioc/html/TileDBArray.html) |
 
+----
+
+## Get Started
+
+All packages in the `BiocPy` are published to [PyPI](https://pypi.org/). Install the core packages using the `biocpy` wrapper:
+
+```sh
+pip install biocpy
+```
+
+Individual packages can be installed separately. See each package's documentation for specific installation instructions.
+
+### Environments
+
+We provide conda/mamba configuration files to create environments containing most BiocPy (& friends) packages. 
+Check out the [environments repository](https://github.com/biocpy/environments) for more information.
+
+----
+
 ## Friends of BiocPy
 
 BiocPy integrates with several analysis tools and frameworks
@@ -72,21 +91,6 @@ BiocPy integrates with several analysis tools and frameworks
 ### Model Training
 
 - [CellArr](https://github.com/CellArr): TileDB-based genomic data storage with AI/ML dataloaders.
-
-## Installation
-
-All packages in the `BiocPy` are published to [PyPI](https://pypi.org/). Install the core packages using the `biocpy` wrapper:
-
-```sh
-pip install biocpy
-```
-
-Individual packages can be installed separately. See each package's documentation for specific installation instructions.
-
-## Environments
-
-We provide conda/mamba configuration files to create environments containing most BiocPy (& friends) packages. 
-Check out the [environments repository](https://github.com/biocpy/environments) for more information.
 
 ----
 
