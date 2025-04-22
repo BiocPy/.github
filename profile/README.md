@@ -58,8 +58,7 @@ For a complete list of packages, visit our [GitHub organization](https://github.
 ----
 
 ## Get Started
-
-All packages in the `BiocPy` are published to [PyPI](https://pypi.org/). Install the core packages using the `biocpy` wrapper:
+All packages in the `BiocPy` are published to [BiocPy PyPI org](https://pypi.org/org/BiocPy/). Install the core packages using the `biocpy` wrapper:
 
 ```sh
 pip install biocpy
